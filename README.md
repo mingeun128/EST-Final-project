@@ -38,7 +38,7 @@
 
 2. Normalize
 
-3. GrayScale & Histogram Equilization
+3. GrayScale & Histogram Equalization
 
 4. Vertical Flip/Rotation180
 
